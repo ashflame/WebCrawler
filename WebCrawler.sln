@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppCrawler", "WebAppCrawler\WebAppCrawler.csproj", "{F5EBFA3D-3162-435F-B932-21AE0957381C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppCrawler.Tests", "WebAppCrawler.Tests\WebAppCrawler.Tests.csproj", "{DC7D26EF-2B7B-4A98-905E-5E5659BD9A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryTests", "LibraryTests\LibraryTests.csproj", "{BFB23D1E-B47E-44AF-BA23-489F9A796DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete", "Delete\Delete.csproj", "{886E2953-F16E-41B7-99EA-F08D6A6043C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinServiceCrawler", "WinServiceCrawler\WinServiceCrawler.csproj", "{2DE751E9-9FEE-4880-8367-81B1BE7D1822}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupWinCrawler", "SetupWinCrawler\SetupWinCrawler.vdproj", "{57FB571B-D8D3-4B7D-891A-C40C02A1013D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EBFA3D-3162-435F-B932-21AE0957381C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EBFA3D-3162-435F-B932-21AE0957381C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EBFA3D-3162-435F-B932-21AE0957381C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EBFA3D-3162-435F-B932-21AE0957381C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7D26EF-2B7B-4A98-905E-5E5659BD9A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7D26EF-2B7B-4A98-905E-5E5659BD9A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7D26EF-2B7B-4A98-905E-5E5659BD9A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7D26EF-2B7B-4A98-905E-5E5659BD9A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB23D1E-B47E-44AF-BA23-489F9A796DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB23D1E-B47E-44AF-BA23-489F9A796DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB23D1E-B47E-44AF-BA23-489F9A796DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB23D1E-B47E-44AF-BA23-489F9A796DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886E2953-F16E-41B7-99EA-F08D6A6043C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886E2953-F16E-41B7-99EA-F08D6A6043C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886E2953-F16E-41B7-99EA-F08D6A6043C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886E2953-F16E-41B7-99EA-F08D6A6043C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE751E9-9FEE-4880-8367-81B1BE7D1822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE751E9-9FEE-4880-8367-81B1BE7D1822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE751E9-9FEE-4880-8367-81B1BE7D1822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE751E9-9FEE-4880-8367-81B1BE7D1822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FB571B-D8D3-4B7D-891A-C40C02A1013D}.Debug|Any CPU.ActiveCfg = Debug
+		{57FB571B-D8D3-4B7D-891A-C40C02A1013D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.config
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\EntityFramework.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\HtmlAgilityPack.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\VkNet.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\EntityFramework.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\HtmlAgilityPack.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\VkNet.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\VkNet.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\obj\Release\WinServiceCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\obj\Release\WinServiceCrawler.ProjectInstaller.resources
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\obj\Release\WinServiceCrawler.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\obj\Release\WinServiceCrawler.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\obj\Release\WinServiceCrawler.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.config
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\WinServiceCrawler\obj\Release\WinServiceCrawler.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\WinServiceCrawler\obj\Release\WinServiceCrawler.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler git\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.config
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler git\WinServiceCrawler\obj\Release\WinServiceCrawler.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler git\WinServiceCrawler\obj\Release\WinServiceCrawler.pdb

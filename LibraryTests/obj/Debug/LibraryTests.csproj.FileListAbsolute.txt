@@ -1,0 +1,15 @@
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\LibraryTests.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\LibraryTests.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\Delete.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\nunit.framework.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\VkNet.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\Delete.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\nunit.framework.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\VkNet.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\bin\Debug\VkNet.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\obj\Debug\LibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\obj\Debug\LibraryTests.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\LibraryTests\obj\Debug\LibraryTests.pdb

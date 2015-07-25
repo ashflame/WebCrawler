@@ -1,0 +1,73 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.exe.
+Данный файл находится в C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\WinServiceCrawler\bin\Release\WinServiceCrawler.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.

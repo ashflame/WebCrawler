@@ -1,0 +1,17 @@
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\Delete.exe.config
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\Delete.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\Delete.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\VkNet.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\VkNet.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\VkNet.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\obj\Debug\Delete.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\obj\Debug\Delete.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\obj\Debug\Delete.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler\Delete\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\Delete\bin\Debug\Delete.exe.config
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\Delete\obj\Debug\Delete.exe
+C:\Users\Anastasia\Desktop\ЛЕТНЯЯ ШКОЛА\WebCrawler test\Delete\obj\Debug\Delete.pdb

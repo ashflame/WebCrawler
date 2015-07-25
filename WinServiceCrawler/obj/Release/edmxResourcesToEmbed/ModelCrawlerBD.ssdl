@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище CrawlerModel" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="ContextKey" Type="nvarchar" MaxLength="300" Nullable="false" />
+    <Property Name="Model" Type="varbinary(max)" Nullable="false" />
+    <Property Name="ProductVersion" Type="nvarchar" MaxLength="32" Nullable="false" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "Crawler.dbo.Post" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="postID" Type="bigint" />
+    <Property Name="countOfComments" Type="int" />
+    <Property Name="likes" Type="int" />
+    <Property Name="text" Type="nvarchar(max)" />
+    <Property Name="reposts" Type="int" />
+    <Property Name="date" Type="datetime" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "Crawler.dbo.Statistic" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Statistic">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date" Type="datetime" />
+    <Property Name="countFollowers" Type="bigint" />
+    <Property Name="countPosts" Type="bigint" />
+  </EntityType>
+  <EntityContainer Name="Хранилище CrawlerModelContainer">
+    <EntitySet Name="__MigrationHistory" EntityType="Self.__MigrationHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Post" EntityType="Self.Post" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Post].[id] AS [id], 
+    [Post].[postID] AS [postID], 
+    [Post].[countOfComments] AS [countOfComments], 
+    [Post].[likes] AS [likes], 
+    [Post].[text] AS [text], 
+    [Post].[reposts] AS [reposts], 
+    [Post].[date] AS [date]
+    FROM [dbo].[Post] AS [Post]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Statistic" EntityType="Self.Statistic" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Statistic].[id] AS [id], 
+    [Statistic].[date] AS [date], 
+    [Statistic].[countFollowers] AS [countFollowers], 
+    [Statistic].[countPosts] AS [countPosts]
+    FROM [dbo].[Statistic] AS [Statistic]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
